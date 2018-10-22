@@ -103,4 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-pokemon_images/
+pokemon_full_images/
+pokemon_mini_images/
+
+.byebug_history

@@ -1,0 +1,966 @@
+number,name,type_1,type_2,egg_group_1,egg_group_2,color,big_image,miniature
+1,Bulbasaur,Grass,Poison,Monster,Grass,Green,001.png,1.png
+2,Ivysaur,Grass,Poison,Monster,Grass,Green,002.png,2.png
+3,Venusaur,Grass,Poison,Monster,Grass,Green,003.png,3.png
+3,Mega Venusaur,Grass,Poison,Monster,Grass,Green,003.png,3-mega.png
+4,Charmander,Fire,,Monster,Dragon,Red,004.png,4.png
+5,Charmeleon,Fire,,Monster,Dragon,Red,005.png,5.png
+6,Charizard,Fire,Flying,Monster,Dragon,Red,006.png,6.png
+6,Mega Charizard X,Fire,Dragon,Monster,Dragon,Red,006.png,6-mega-x.png
+6,Mega Charizard Y,Fire,Flying,Monster,Dragon,Red,006.png,6-mega-y.png
+7,Squirtle,Water,,Monster,Water 1,Blue,007.png,7.png
+8,Wartortle,Water,,Monster,Water 1,Blue,008.png,8.png
+9,Blastoise,Water,,Monster,Water 1,Blue,009.png,9.png
+9,Mega Blastoise,Water,,Monster,Water 1,Blue,009.png,9-mega.png
+10,Caterpie,Bug,,Bug,,Green,010.png,10.png
+11,Metapod,Bug,,Bug,,Green,011.png,11.png
+12,Butterfree,Bug,Flying,Bug,,White,012.png,12.png
+13,Weedle,Bug,Poison,Bug,,Brown,013.png,13.png
+14,Kakuna,Bug,Poison,Bug,,Yellow,014.png,14.png
+15,Beedrill,Bug,Poison,Bug,,Yellow,015.png,15.png
+15,Mega Beedrill,Bug,Poison,Bug,,Yellow,015.png,15-mega.png
+16,Pidgey,Normal,Flying,Flying,,Brown,016.png,16.png
+17,Pidgeotto,Normal,Flying,Flying,,Brown,017.png,17.png
+18,Pidgeot,Normal,Flying,Flying,,Brown,018.png,18.png
+18,Mega Pidgeot,Normal,Flying,Flying,,Brown,018.png,18-mega.png
+19,Rattata,Normal,,Field,,Purple,019.png,19.png
+19,Alolan Rattata,Dark,Normal,Field,,Purple,019.png,19-alola.png
+20,Raticate,Normal,,Field,,Brown,020.png,20.png
+20,Alolan Raticate,Dark,Normal,Field,,Brown,020.png,20-alola.png
+20,Totem Alolan Raticate,Dark,Normal,Field,,Brown,020.png,20-totem-alola.png
+21,Spearow,Normal,Flying,Flying,,Brown,021.png,21.png
+22,Fearow,Normal,Flying,Flying,,Brown,022.png,22.png
+23,Ekans,Poison,,Field,Dragon,Purple,023.png,23.png
+24,Arbok,Poison,,Field,Dragon,Purple,024.png,24.png
+25,Pikachu,Electric,,Field,Fairy,Yellow,025.png,25.png
+25,Cosplay Pikachu,Electric,,Field,Fairy,Yellow,025.png,25-cosplay.png
+25,Original Cap Pikachu,Electric,,Field,Fairy,Yellow,025.png,25-original-cap.png
+25,Hoenn Cap Pikachu,Electric,,Field,Fairy,Yellow,025.png,25-hoenn-cap.png
+25,Pikachu Rock Star,Electric,,Field,Fairy,Yellow,025.png,25-rock-star.png
+25,Pikachu Belle,Electric,,Field,Fairy,Yellow,025.png,25-belle.png
+25,Sinnoh Cap Pikachu,Electric,,Field,Fairy,Yellow,025.png,25-sinnoh-cap.png
+25,Pikachu Pop Star,Electric,,Field,Fairy,Yellow,025.png,25-pop-star.png
+25,Unova Cap Pikachu,Electric,,Field,Fairy,Yellow,025.png,25-unova-cap.png
+25,Kalos Cap Pikachu,Electric,,Field,Fairy,Yellow,025.png,25-kalos-cap.png
+25,Pikachu Ph.D.,Electric,,Field,Fairy,Yellow,025.png,25-phd.png
+25,Alola Cap Pikachu,Electric,,Field,Fairy,Yellow,025.png,25-alola-cap.png
+25,Pikachu Libre,Electric,,Field,Fairy,Yellow,025.png,25-libre.png
+25,Pikachu,Electric,,Field,Fairy,Yellow,025.png,25-partner-cap.png
+26,Raichu,Electric,,Field,Fairy,Yellow,026.png,26.png
+26,Alolan Raichu,Electric,Psychic,Field,Fairy,Yellow,026.png,26-alola.png
+27,Sandshrew,Ground,,Field,,Yellow,027.png,27.png
+27,Alolan Sandshrew,Ice,Steel,Field,,Yellow,027.png,27-alola.png
+28,Sandslash,Ground,,Field,,Yellow,028.png,28.png
+28,Alolan Sandslash,Ice,Steel,Field,,Yellow,028.png,28-alola.png
+29,Nidoran♀,Poison,,Monster,Field,Blue,029.png,29.png
+30,Nidorina,Poison,,Undiscovered,,Blue,030.png,30.png
+31,Nidoqueen,Poison,Ground,Undiscovered,,Blue,031.png,31.png
+32,Nidoran♂,Poison,,Monster,Field,Purple,032.png,32.png
+33,Nidorino,Poison,,Monster,Field,Purple,033.png,33.png
+34,Nidoking,Poison,Ground,Monster,Field,Purple,034.png,34.png
+35,Clefairy,Fairy,,Fairy,,Pink,035.png,35.png
+36,Clefable,Fairy,,Fairy,,Pink,036.png,36.png
+37,Vulpix,Fire,,Field,,Brown,037.png,37.png
+37,Alolan Vulpix,Ice,,Field,,Brown,037.png,37-alola.png
+38,Ninetales,Fire,,Field,,Yellow,038.png,38.png
+38,Alolan Ninetales,Ice,Fairy,Field,,Yellow,038.png,38-alola.png
+39,Jigglypuff,Normal,Fairy,Fairy,,Pink,039.png,39.png
+40,Wigglytuff,Normal,Fairy,Fairy,,Pink,040.png,40.png
+41,Zubat,Poison,Flying,Flying,,Purple,041.png,41.png
+42,Golbat,Poison,Flying,Flying,,Purple,042.png,42.png
+43,Oddish,Grass,Poison,Grass,,Blue,043.png,43.png
+44,Gloom,Grass,Poison,Grass,,Blue,044.png,44.png
+45,Vileplume,Grass,Poison,Grass,,Red,045.png,45.png
+46,Paras,Bug,Grass,Bug,Grass,Red,046.png,46.png
+47,Parasect,Bug,Grass,Bug,Grass,Red,047.png,47.png
+48,Venonat,Bug,Poison,Bug,,Purple,048.png,48.png
+49,Venomoth,Bug,Poison,Bug,,Purple,049.png,49.png
+50,Diglett,Ground,,Field,,Brown,050.png,50.png
+50,Alolan Diglett,Ground,Steel,Field,,Brown,050.png,50-alola.png
+51,Dugtrio,Ground,,Field,,Brown,051.png,51.png
+51,Alolan Dugtrio,Ground,Steel,Field,,Brown,051.png,51-alola.png
+52,Meowth,Normal,,Field,,Yellow,052.png,52.png
+52,Alolan Meowth,Dark,,Field,,Yellow,052.png,52-alola.png
+53,Persian,Normal,,Field,,Yellow,053.png,53.png
+53,Alolan Persian,Dark,,Field,,Yellow,053.png,53-alola.png
+54,Psyduck,Water,,Water 1,Field,Yellow,054.png,54.png
+55,Golduck,Water,,Water 1,Field,Blue,055.png,55.png
+56,Mankey,Fighting,,Field,,Brown,056.png,56.png
+57,Primeape,Fighting,,Field,,Brown,057.png,57.png
+58,Growlithe,Fire,,Field,,Brown,058.png,58.png
+59,Arcanine,Fire,,Field,,Brown,059.png,59.png
+60,Poliwag,Water,,Water 1,,Blue,060.png,60.png
+61,Poliwhirl,Water,,Water 1,,Blue,061.png,61.png
+62,Poliwrath,Water,Fighting,Water 1,,Blue,062.png,62.png
+63,Abra,Psychic,,Human-Like,,Brown,063.png,63.png
+64,Kadabra,Psychic,,Human-Like,,Brown,064.png,64.png
+65,Alakazam,Psychic,,Human-Like,,Brown,065.png,65.png
+65,Mega Alakazam,Psychic,,Human-Like,,Brown,065.png,65-mega.png
+66,Machop,Fighting,,Human-Like,,Gray,066.png,66.png
+67,Machoke,Fighting,,Human-Like,,Gray,067.png,67.png
+68,Machamp,Fighting,,Human-Like,,Gray,068.png,68.png
+69,Bellsprout,Grass,Poison,Grass,,Green,069.png,69.png
+70,Weepinbell,Grass,Poison,Grass,,Green,070.png,70.png
+71,Victreebel,Grass,Poison,Grass,,Green,071.png,71.png
+72,Tentacool,Water,Poison,Water 3,,Blue,072.png,72.png
+73,Tentacruel,Water,Poison,Water 3,,Blue,073.png,73.png
+74,Geodude,Rock,Ground,Mineral,,Brown,074.png,74.png
+74,Alolan Geodude,Rock,Electric,Mineral,,Brown,074.png,74-alola.png
+75,Graveler,Rock,Ground,Mineral,,Brown,075.png,75.png
+75,Alolan Graveler,Rock,Electric,Mineral,,Brown,075.png,75-alola.png
+76,Golem,Rock,Ground,Mineral,,Brown,076.png,76.png
+76,Alolan Golem,Rock,Electric,Mineral,,Brown,076.png,76-alola.png
+77,Ponyta,Fire,,Field,,Yellow,077.png,77.png
+78,Rapidash,Fire,,Field,,Yellow,078.png,78.png
+79,Slowpoke,Water,Psychic,Monster,Water 1,Pink,079.png,79.png
+80,Slowbro,Water,Psychic,Monster,Water 1,Pink,080.png,80.png
+80,Mega Slowbro,Water,Psychic,Monster,Water 1,Pink,080.png,80-mega.png
+81,Magnemite,Electric,Steel,Mineral,,Gray,081.png,81.png
+82,Magneton,Electric,Steel,Mineral,,Gray,082.png,82.png
+83,Farfetch’d,Normal,Flying,Flying,Field,Brown,083.png,83.png
+84,Doduo,Normal,Flying,Flying,,Brown,084.png,84.png
+85,Dodrio,Normal,Flying,Flying,,Brown,085.png,85.png
+86,Seel,Water,,Water 1,Field,White,086.png,86.png
+87,Dewgong,Water,Ice,Water 1,Field,White,087.png,87.png
+88,Grimer,Poison,,Amorphous,,Purple,088.png,88.png
+88,Alolan Grimer,Poison,Dark,Amorphous,,Purple,088.png,88-alola.png
+89,Muk,Poison,,Amorphous,,Purple,089.png,89.png
+89,Alolan Muk,Poison,Dark,Amorphous,,Purple,089.png,89-alola.png
+90,Shellder,Water,,Water 3,,Purple,090.png,90.png
+91,Cloyster,Water,Ice,Water 3,,Purple,091.png,91.png
+92,Gastly,Ghost,Poison,Amorphous,,Purple,092.png,92.png
+93,Haunter,Ghost,Poison,Amorphous,,Purple,093.png,93.png
+94,Gengar,Ghost,Poison,Amorphous,,Purple,094.png,94.png
+94,Mega Gengar,Ghost,Poison,Amorphous,,Purple,094.png,94-mega.png
+95,Onix,Rock,Ground,Mineral,,Gray,095.png,95.png
+96,Drowzee,Psychic,,Human-Like,,Yellow,096.png,96.png
+97,Hypno,Psychic,,Human-Like,,Yellow,097.png,97.png
+98,Krabby,Water,,Water 3,,Red,098.png,98.png
+99,Kingler,Water,,Water 3,,Red,099.png,99.png
+100,Voltorb,Electric,,Mineral,,Red,100.png,100.png
+101,Electrode,Electric,,Mineral,,Red,101.png,101.png
+102,Exeggcute,Grass,Psychic,Grass,,Pink,102.png,102.png
+103,Exeggutor,Grass,Psychic,Grass,,Yellow,103.png,103.png
+103,Alolan Exeggutor,Grass,Dragon,Grass,,Yellow,103.png,103-alola.png
+104,Cubone,Ground,,Monster,,Brown,104.png,104.png
+105,Marowak,Ground,,Monster,,Brown,105.png,105.png
+105,Alolan Marowak,Fire,Ghost,Monster,,Brown,105.png,105-alola.png
+105,Marowak,Fire,Ghost,Monster,,Brown,105.png,105-totem.png
+106,Hitmonlee,Fighting,,Human-Like,,Brown,106.png,106.png
+107,Hitmonchan,Fighting,,Human-Like,,Brown,107.png,107.png
+108,Lickitung,Normal,,Monster,,Pink,108.png,108.png
+109,Koffing,Poison,,Amorphous,,Purple,109.png,109.png
+110,Weezing,Poison,,Amorphous,,Purple,110.png,110.png
+111,Rhyhorn,Ground,Rock,Monster,Field,Gray,111.png,111.png
+112,Rhydon,Ground,Rock,Monster,Field,Gray,112.png,112.png
+113,Chansey,Normal,,Fairy,,Pink,113.png,113.png
+114,Tangela,Grass,,Grass,,Blue,114.png,114.png
+115,Kangaskhan,Normal,,Monster,,Brown,115.png,115.png
+115,Mega Kangaskhan,Normal,,Monster,,Brown,115.png,115-mega.png
+116,Horsea,Water,,Water 1,Dragon,Blue,116.png,116.png
+117,Seadra,Water,,Water 1,Dragon,Blue,117.png,117.png
+118,Goldeen,Water,,Water 2,,Red,118.png,118.png
+119,Seaking,Water,,Water 2,,Red,119.png,119.png
+120,Staryu,Water,,Water 3,,Brown,120.png,120.png
+121,Starmie,Water,Psychic,Water 3,,Purple,121.png,121.png
+122,Mr. Mime,Psychic,Fairy,Human-Like,,Pink,122.png,122.png
+123,Scyther,Bug,Flying,Bug,,Green,123.png,123.png
+124,Jynx,Ice,Psychic,Human-Like,,Red,124.png,124.png
+125,Electabuzz,Electric,,Human-Like,,Yellow,125.png,125.png
+126,Magmar,Fire,,Human-Like,,Red,126.png,126.png
+127,Pinsir,Bug,,Bug,,Brown,127.png,127.png
+127,Mega Pinsir,Bug,Flying,Bug,,Brown,127.png,127-mega.png
+128,Tauros,Normal,,Field,,Brown,128.png,128.png
+129,Magikarp,Water,,Water 2,Dragon,Red,129.png,129.png
+130,Gyarados,Water,Flying,Water 2,Dragon,Blue,130.png,130.png
+130,Mega Gyarados,Water,Dark,Water 2,Dragon,Blue,130.png,130-mega.png
+131,Lapras,Water,Ice,Monster,Water 1,Blue,131.png,131.png
+132,Ditto,Normal,,Ditto,,Purple,132.png,132.png
+133,Eevee,Normal,,Field,,Brown,133.png,133.png
+134,Vaporeon,Water,,Field,,Blue,134.png,134.png
+135,Jolteon,Electric,,Field,,Yellow,135.png,135.png
+136,Flareon,Fire,,Field,,Red,136.png,136.png
+137,Porygon,Normal,,Mineral,,Pink,137.png,137.png
+138,Omanyte,Rock,Water,Water 1,Water 3,Blue,138.png,138.png
+139,Omastar,Rock,Water,Water 1,Water 3,Blue,139.png,139.png
+140,Kabuto,Rock,Water,Water 1,Water 3,Brown,140.png,140.png
+141,Kabutops,Rock,Water,Water 1,Water 3,Brown,141.png,141.png
+142,Aerodactyl,Rock,Flying,Flying,,Purple,142.png,142.png
+142,Mega Aerodactyl,Rock,Flying,Flying,,Purple,142.png,142-mega.png
+143,Snorlax,Normal,,Monster,,Black,143.png,143.png
+144,Articuno,Ice,Flying,Undiscovered,,Blue,144.png,144.png
+145,Zapdos,Electric,Flying,Undiscovered,,Yellow,145.png,145.png
+146,Moltres,Fire,Flying,Undiscovered,,Yellow,146.png,146.png
+147,Dratini,Dragon,,Water 1,Dragon,Blue,147.png,147.png
+148,Dragonair,Dragon,,Water 1,Dragon,Blue,148.png,148.png
+149,Dragonite,Dragon,Flying,Water 1,Dragon,Brown,149.png,149.png
+150,Mewtwo,Psychic,,Undiscovered,,Purple,150.png,150.png
+150,Mega Mewtwo X,Psychic,Fighting,Undiscovered,,Purple,150.png,150-mega-x.png
+150,Mega Mewtwo Y,Psychic,,Undiscovered,,Purple,150.png,150-mega-y.png
+151,Mew,Psychic,,Undiscovered,,Pink,151.png,151.png
+152,Chikorita,Grass,,Monster,Grass,Green,152.png,152.png
+153,Bayleef,Grass,,Monster,Grass,Green,153.png,153.png
+154,Meganium,Grass,,Monster,Grass,Green,154.png,154.png
+155,Cyndaquil,Fire,,Field,,Yellow,155.png,155.png
+156,Quilava,Fire,,Field,,Yellow,156.png,156.png
+157,Typhlosion,Fire,,Field,,Yellow,157.png,157.png
+158,Totodile,Water,,Monster,Water 1,Blue,158.png,158.png
+159,Croconaw,Water,,Monster,Water 1,Blue,159.png,159.png
+160,Feraligatr,Water,,Monster,Water 1,Blue,160.png,160.png
+161,Sentret,Normal,,Field,,Brown,161.png,161.png
+162,Furret,Normal,,Field,,Brown,162.png,162.png
+163,Hoothoot,Normal,Flying,Flying,,Brown,163.png,163.png
+164,Noctowl,Normal,Flying,Flying,,Brown,164.png,164.png
+165,Ledyba,Bug,Flying,Bug,,Red,165.png,165.png
+166,Ledian,Bug,Flying,Bug,,Red,166.png,166.png
+167,Spinarak,Bug,Poison,Bug,,Green,167.png,167.png
+168,Ariados,Bug,Poison,Bug,,Red,168.png,168.png
+169,Crobat,Poison,Flying,Flying,,Purple,169.png,169.png
+170,Chinchou,Water,Electric,Water 2,,Blue,170.png,170.png
+171,Lanturn,Water,Electric,Water 2,,Blue,171.png,171.png
+172,Pichu,Electric,,Undiscovered,,Yellow,172.png,172.png
+173,Cleffa,Fairy,,Undiscovered,,Pink,173.png,173.png
+174,Igglybuff,Normal,Fairy,Undiscovered,,Pink,174.png,174.png
+175,Togepi,Fairy,,Undiscovered,,White,175.png,175.png
+176,Togetic,Fairy,Flying,Flying,Fairy,White,176.png,176.png
+177,Natu,Psychic,Flying,Flying,,Green,177.png,177.png
+178,Xatu,Psychic,Flying,Flying,,Green,178.png,178.png
+179,Mareep,Electric,,Monster,Field,White,179.png,179.png
+180,Flaaffy,Electric,,Monster,Field,Pink,180.png,180.png
+181,Ampharos,Electric,,Monster,Field,Yellow,181.png,181.png
+181,Mega Ampharos,Electric,Dragon,Monster,Field,Yellow,181.png,181-mega.png
+182,Bellossom,Grass,,Grass,,Green,182.png,182.png
+183,Marill,Water,Fairy,Water 1,Fairy,Blue,183.png,183.png
+184,Azumarill,Water,Fairy,Water 1,Fairy,Blue,184.png,184.png
+185,Sudowoodo,Rock,,Mineral,,Brown,185.png,185.png
+186,Politoed,Water,,Water 1,,Green,186.png,186.png
+187,Hoppip,Grass,Flying,Fairy,Grass,Pink,187.png,187.png
+188,Skiploom,Grass,Flying,Fairy,Grass,Green,188.png,188.png
+189,Jumpluff,Grass,Flying,Fairy,Grass,Blue,189.png,189.png
+190,Aipom,Normal,,Field,,Purple,190.png,190.png
+191,Sunkern,Grass,,Grass,,Yellow,191.png,191.png
+192,Sunflora,Grass,,Grass,,Yellow,192.png,192.png
+193,Yanma,Bug,Flying,Bug,,Red,193.png,193.png
+194,Wooper,Water,Ground,Water 1,Field,Blue,194.png,194.png
+195,Quagsire,Water,Ground,Water 1,Field,Blue,195.png,195.png
+196,Espeon,Psychic,,Field,,Purple,196.png,196.png
+197,Umbreon,Dark,,Field,,Black,197.png,197.png
+198,Murkrow,Dark,Flying,Flying,,Black,198.png,198.png
+199,Slowking,Water,Psychic,Monster,Water 1,Pink,199.png,199.png
+200,Misdreavus,Ghost,,Amorphous,,Gray,200.png,200.png
+201,Unown A,Psychic,,Undiscovered,,Black,201.png,201-a.png
+202,Wobbuffet,Psychic,,Amorphous,,Blue,202.png,202.png
+203,Girafarig,Normal,Psychic,Field,,Yellow,203.png,203.png
+204,Pineco,Bug,,Bug,,Gray,204.png,204.png
+205,Forretress,Bug,Steel,Bug,,Purple,205.png,205.png
+206,Dunsparce,Normal,,Field,,Yellow,206.png,206.png
+207,Gligar,Ground,Flying,Bug,,Purple,207.png,207.png
+208,Steelix,Steel,Ground,Mineral,,Gray,208.png,208.png
+208,Mega Steelix,Steel,Ground,Mineral,,Gray,208.png,208-mega.png
+209,Snubbull,Fairy,,Field,Fairy,Pink,209.png,209.png
+210,Granbull,Fairy,,Field,Fairy,Purple,210.png,210.png
+211,Qwilfish,Water,Poison,Water 2,,Gray,211.png,211.png
+212,Scizor,Bug,Steel,Bug,,Red,212.png,212.png
+212,Mega Scizor,Bug,Steel,Bug,,Red,212.png,212-mega.png
+213,Shuckle,Bug,Rock,Bug,,Yellow,213.png,213.png
+214,Heracross,Bug,Fighting,Bug,,Blue,214.png,214.png
+214,Mega Heracross,Bug,Fighting,Bug,,Blue,214.png,214-mega.png
+215,Sneasel,Dark,Ice,Field,,Black,215.png,215.png
+216,Teddiursa,Normal,,Field,,Brown,216.png,216.png
+217,Ursaring,Normal,,Field,,Brown,217.png,217.png
+218,Slugma,Fire,,Amorphous,,Red,218.png,218.png
+219,Magcargo,Fire,Rock,Amorphous,,Red,219.png,219.png
+220,Swinub,Ice,Ground,Field,,Brown,220.png,220.png
+221,Piloswine,Ice,Ground,Field,,Brown,221.png,221.png
+222,Corsola,Water,Rock,Water 1,Water 3,Pink,222.png,222.png
+223,Remoraid,Water,,Water 1,Water 2,Gray,223.png,223.png
+224,Octillery,Water,,Water 1,Water 2,Red,224.png,224.png
+225,Delibird,Ice,Flying,Water 1,Field,Red,225.png,225.png
+226,Mantine,Water,Flying,Water 1,,Purple,226.png,226.png
+227,Skarmory,Steel,Flying,Flying,,Gray,227.png,227.png
+228,Houndour,Dark,Fire,Field,,Black,228.png,228.png
+229,Houndoom,Dark,Fire,Field,,Black,229.png,229.png
+229,Mega Houndoom,Dark,Fire,Field,,Black,229.png,229-mega.png
+230,Kingdra,Water,Dragon,Water 1,Dragon,Blue,230.png,230.png
+231,Phanpy,Ground,,Field,,Blue,231.png,231.png
+232,Donphan,Ground,,Field,,Gray,232.png,232.png
+233,Porygon2,Normal,,Mineral,,Red,233.png,233.png
+234,Stantler,Normal,,Field,,Brown,234.png,234.png
+235,Smeargle,Normal,,Field,,White,235.png,235.png
+236,Tyrogue,Fighting,,Undiscovered,,Purple,236.png,236.png
+237,Hitmontop,Fighting,,Human-Like,,Brown,237.png,237.png
+238,Smoochum,Ice,Psychic,Undiscovered,,Pink,238.png,238.png
+239,Elekid,Electric,,Undiscovered,,Yellow,239.png,239.png
+240,Magby,Fire,,Undiscovered,,Red,240.png,240.png
+241,Miltank,Normal,,Field,,Pink,241.png,241.png
+242,Blissey,Normal,,Fairy,,Pink,242.png,242.png
+243,Raikou,Electric,,Undiscovered,,Yellow,243.png,243.png
+244,Entei,Fire,,Undiscovered,,Brown,244.png,244.png
+245,Suicune,Water,,Undiscovered,,Blue,245.png,245.png
+246,Larvitar,Rock,Ground,Monster,,Green,246.png,246.png
+247,Pupitar,Rock,Ground,Monster,,Gray,247.png,247.png
+248,Tyranitar,Rock,Dark,Monster,,Green,248.png,248.png
+248,Mega Tyranitar,Rock,Dark,Monster,,Green,248.png,248-mega.png
+249,Lugia,Psychic,Flying,Undiscovered,,White,249.png,249.png
+250,Ho-Oh,Fire,Flying,Undiscovered,,Red,250.png,250.png
+251,Celebi,Psychic,Grass,Undiscovered,,Green,251.png,251.png
+252,Treecko,Grass,,Monster,Dragon,Green,252.png,252.png
+253,Grovyle,Grass,,Monster,Dragon,Green,253.png,253.png
+254,Sceptile,Grass,,Monster,Dragon,Green,254.png,254.png
+254,Mega Sceptile,Grass,Dragon,Monster,Dragon,Green,254.png,254-mega.png
+255,Torchic,Fire,,Field,,Red,255.png,255.png
+256,Combusken,Fire,Fighting,Field,,Red,256.png,256.png
+257,Blaziken,Fire,Fighting,Field,,Red,257.png,257.png
+257,Mega Blaziken,Fire,Fighting,Field,,Red,257.png,257-mega.png
+258,Mudkip,Water,,Monster,Water 1,Blue,258.png,258.png
+259,Marshtomp,Water,Ground,Monster,Water 1,Blue,259.png,259.png
+260,Swampert,Water,Ground,Monster,Water 1,Blue,260.png,260.png
+260,Mega Swampert,Water,Ground,Monster,Water 1,Blue,260.png,260-mega.png
+261,Poochyena,Dark,,Field,,Gray,261.png,261.png
+262,Mightyena,Dark,,Field,,Gray,262.png,262.png
+263,Zigzagoon,Normal,,Field,,Brown,263.png,263.png
+264,Linoone,Normal,,Field,,White,264.png,264.png
+265,Wurmple,Bug,,Bug,,Red,265.png,265.png
+266,Silcoon,Bug,,Bug,,White,266.png,266.png
+267,Beautifly,Bug,Flying,Bug,,Yellow,267.png,267.png
+268,Cascoon,Bug,,Bug,,Purple,268.png,268.png
+269,Dustox,Bug,Poison,Bug,,Green,269.png,269.png
+270,Lotad,Water,Grass,Water 1,Grass,Green,270.png,270.png
+271,Lombre,Water,Grass,Water 1,Grass,Green,271.png,271.png
+272,Ludicolo,Water,Grass,Water 1,Grass,Green,272.png,272.png
+273,Seedot,Grass,,Field,Grass,Brown,273.png,273.png
+274,Nuzleaf,Grass,Dark,Field,Grass,Brown,274.png,274.png
+275,Shiftry,Grass,Dark,Field,Grass,Brown,275.png,275.png
+276,Taillow,Normal,Flying,Flying,,Blue,276.png,276.png
+277,Swellow,Normal,Flying,Flying,,Blue,277.png,277.png
+278,Wingull,Water,Flying,Water 1,Flying,White,278.png,278.png
+279,Pelipper,Water,Flying,Water 1,Flying,Yellow,279.png,279.png
+280,Ralts,Psychic,Fairy,Amorphous,,White,280.png,280.png
+281,Kirlia,Psychic,Fairy,Amorphous,,White,281.png,281.png
+282,Gardevoir,Psychic,Fairy,Amorphous,,White,282.png,282.png
+282,Mega Gardevoir,Psychic,Fairy,Amorphous,,White,282.png,282-mega.png
+283,Surskit,Bug,Water,Water 1,Bug,Blue,283.png,283.png
+284,Masquerain,Bug,Flying,Water 1,Bug,Blue,284.png,284.png
+285,Shroomish,Grass,,Fairy,Grass,Brown,285.png,285.png
+286,Breloom,Grass,Fighting,Fairy,Grass,Green,286.png,286.png
+287,Slakoth,Normal,,Field,,Brown,287.png,287.png
+288,Vigoroth,Normal,,Field,,White,288.png,288.png
+289,Slaking,Normal,,Field,,Brown,289.png,289.png
+290,Nincada,Bug,Ground,Bug,,Gray,290.png,290.png
+291,Ninjask,Bug,Flying,Bug,,Yellow,291.png,291.png
+292,Shedinja,Bug,Ghost,Mineral,,Brown,292.png,292.png
+293,Whismur,Normal,,Monster,Field,Pink,293.png,293.png
+294,Loudred,Normal,,Monster,Field,Blue,294.png,294.png
+295,Exploud,Normal,,Monster,Field,Blue,295.png,295.png
+296,Makuhita,Fighting,,Human-Like,,Yellow,296.png,296.png
+297,Hariyama,Fighting,,Human-Like,,Brown,297.png,297.png
+298,Azurill,Normal,Fairy,Undiscovered,,Blue,298.png,298.png
+299,Nosepass,Rock,,Mineral,,Gray,299.png,299.png
+300,Skitty,Normal,,Field,Fairy,Pink,300.png,300.png
+301,Delcatty,Normal,,Field,Fairy,Purple,301.png,301.png
+302,Sableye,Dark,Ghost,Human-Like,,Purple,302.png,302.png
+302,Mega Sableye,Dark,Ghost,Human-Like,,Purple,302.png,302-mega.png
+303,Mawile,Steel,Fairy,Field,Fairy,Black,303.png,303.png
+303,Mega Mawile,Steel,Fairy,Field,Fairy,Black,303.png,303-mega.png
+304,Aron,Steel,Rock,Monster,,Gray,304.png,304.png
+305,Lairon,Steel,Rock,Monster,,Gray,305.png,305.png
+306,Aggron,Steel,Rock,Monster,,Gray,306.png,306.png
+306,Mega Aggron,Steel,,Monster,,Gray,306.png,306-mega.png
+307,Meditite,Fighting,Psychic,Human-Like,,Blue,307.png,307.png
+308,Medicham,Fighting,Psychic,Human-Like,,Red,308.png,308.png
+308,Mega Medicham,Fighting,Psychic,Human-Like,,Red,308.png,308-mega.png
+309,Electrike,Electric,,Field,,Green,309.png,309.png
+310,Manectric,Electric,,Field,,Yellow,310.png,310.png
+310,Mega Manectric,Electric,,Field,,Yellow,310.png,310-mega.png
+311,Plusle,Electric,,Fairy,,Yellow,311.png,311.png
+312,Minun,Electric,,Fairy,,Yellow,312.png,312.png
+313,Volbeat,Bug,,Bug,Human-Like,Gray,313.png,313.png
+314,Illumise,Bug,,Bug,Human-Like,Purple,314.png,314.png
+315,Roselia,Grass,Poison,Fairy,Grass,Green,315.png,315.png
+316,Gulpin,Poison,,Amorphous,,Green,316.png,316.png
+317,Swalot,Poison,,Amorphous,,Purple,317.png,317.png
+318,Carvanha,Water,Dark,Water 2,,Red,318.png,318.png
+319,Sharpedo,Water,Dark,Water 2,,Blue,319.png,319.png
+319,Mega Sharpedo,Water,Dark,Water 2,,Blue,319.png,319-mega.png
+320,Wailmer,Water,,Field,Water 2,Blue,320.png,320.png
+321,Wailord,Water,,Field,Water 2,Blue,321.png,321.png
+322,Numel,Fire,Ground,Field,,Yellow,322.png,322.png
+323,Camerupt,Fire,Ground,Field,,Red,323.png,323.png
+323,Mega Camerupt,Fire,Ground,Field,,Red,323.png,323-mega.png
+324,Torkoal,Fire,,Field,,Brown,324.png,324.png
+325,Spoink,Psychic,,Field,,Black,325.png,325.png
+326,Grumpig,Psychic,,Field,,Purple,326.png,326.png
+327,Spinda,Normal,,Field,Human-Like,Brown,327.png,327.png
+328,Trapinch,Ground,,Bug,,Brown,328.png,328.png
+329,Vibrava,Ground,Dragon,Bug,,Green,329.png,329.png
+330,Flygon,Ground,Dragon,Bug,,Green,330.png,330.png
+331,Cacnea,Grass,,Grass,Human-Like,Green,331.png,331.png
+332,Cacturne,Grass,Dark,Grass,Human-Like,Green,332.png,332.png
+333,Swablu,Normal,Flying,Flying,Dragon,Blue,333.png,333.png
+334,Altaria,Dragon,Flying,Flying,Dragon,Blue,334.png,334.png
+334,Mega Altaria,Dragon,Fairy,Flying,Dragon,Blue,334.png,334-mega.png
+335,Zangoose,Normal,,Field,,White,335.png,335.png
+336,Seviper,Poison,,Field,Dragon,Black,336.png,336.png
+337,Lunatone,Rock,Psychic,Mineral,,Yellow,337.png,337.png
+338,Solrock,Rock,Psychic,Mineral,,Red,338.png,338.png
+339,Barboach,Water,Ground,Water 2,,Gray,339.png,339.png
+340,Whiscash,Water,Ground,Water 2,,Blue,340.png,340.png
+341,Corphish,Water,,Water 1,Water 3,Red,341.png,341.png
+342,Crawdaunt,Water,Dark,Water 1,Water 3,Red,342.png,342.png
+343,Baltoy,Ground,Psychic,Mineral,,Brown,343.png,343.png
+344,Claydol,Ground,Psychic,Mineral,,Black,344.png,344.png
+345,Lileep,Rock,Grass,Water 3,,Purple,345.png,345.png
+346,Cradily,Rock,Grass,Water 3,,Green,346.png,346.png
+347,Anorith,Rock,Bug,Water 3,,Gray,347.png,347.png
+348,Armaldo,Rock,Bug,Water 3,,Gray,348.png,348.png
+349,Feebas,Water,,Water 1,Dragon,Brown,349.png,349.png
+350,Milotic,Water,,Water 1,Dragon,Pink,350.png,350.png
+351,Castform,Normal,,Fairy,Amorphous,Gray,351.png,351.png
+351,Sunny Castform,Fire,,Fairy,Amorphous,Gray,351.png,351-sunny.png
+351,Rainy Castform,Water,,Fairy,Amorphous,Gray,351.png,351-rainy.png
+351,Snowy Castform,Ice,,Fairy,Amorphous,Gray,351.png,351-snowy.png
+352,Kecleon,Normal,,Field,,Green,352.png,352.png
+353,Shuppet,Ghost,,Amorphous,,Black,353.png,353.png
+354,Banette,Ghost,,Amorphous,,Black,354.png,354.png
+354,Mega Banette,Ghost,,Amorphous,,Black,354.png,354-mega.png
+355,Duskull,Ghost,,Amorphous,,Black,355.png,355.png
+356,Dusclops,Ghost,,Amorphous,,Black,356.png,356.png
+357,Tropius,Grass,Flying,Monster,Grass,Green,357.png,357.png
+358,Chimecho,Psychic,,Amorphous,,Blue,358.png,358.png
+359,Absol,Dark,,Field,,White,359.png,359.png
+359,Mega Absol,Dark,,Field,,White,359.png,359-mega.png
+360,Wynaut,Psychic,,Undiscovered,,Blue,360.png,360.png
+361,Snorunt,Ice,,Fairy,Mineral,Gray,361.png,361.png
+362,Glalie,Ice,,Fairy,Mineral,Gray,362.png,362.png
+362,Mega Glalie,Ice,,Fairy,Mineral,Gray,362.png,362-mega.png
+363,Spheal,Ice,Water,Water 1,Field,Blue,363.png,363.png
+364,Sealeo,Ice,Water,Water 1,Field,Blue,364.png,364.png
+365,Walrein,Ice,Water,Water 1,Field,Blue,365.png,365.png
+366,Clamperl,Water,,Water 1,,Blue,366.png,366.png
+367,Huntail,Water,,Water 1,,Blue,367.png,367.png
+368,Gorebyss,Water,,Water 1,,Pink,368.png,368.png
+369,Relicanth,Water,Rock,Water 1,Water 2,Gray,369.png,369.png
+370,Luvdisc,Water,,Water 2,,Pink,370.png,370.png
+371,Bagon,Dragon,,Dragon,,Blue,371.png,371.png
+372,Shelgon,Dragon,,Dragon,,White,372.png,372.png
+373,Salamence,Dragon,Flying,Dragon,,Blue,373.png,373.png
+373,Mega Salamence,Dragon,Flying,Dragon,,Blue,373.png,373-mega.png
+374,Beldum,Steel,Psychic,Mineral,,Blue,374.png,374.png
+375,Metang,Steel,Psychic,Mineral,,Blue,375.png,375.png
+376,Metagross,Steel,Psychic,Mineral,,Blue,376.png,376.png
+376,Mega Metagross,Steel,Psychic,Mineral,,Blue,376.png,376-mega.png
+377,Regirock,Rock,,Undiscovered,,Brown,377.png,377.png
+378,Regice,Ice,,Undiscovered,,Blue,378.png,378.png
+379,Registeel,Steel,,Undiscovered,,Gray,379.png,379.png
+380,Latias,Dragon,Psychic,Undiscovered,,Red,380.png,380.png
+380,Mega Latias,Dragon,Psychic,Undiscovered,,Red,380.png,380-mega.png
+381,Latios,Dragon,Psychic,Undiscovered,,Blue,381.png,381.png
+381,Mega Latios,Dragon,Psychic,Undiscovered,,Blue,381.png,381-mega.png
+382,Kyogre,Water,,Undiscovered,,Blue,382.png,382.png
+382,Primal Kyogre,Water,,Undiscovered,,Blue,382.png,382-primal.png
+383,Groudon,Ground,,Undiscovered,,Red,383.png,383.png
+383,Primal Groudon,Ground,Fire,Undiscovered,,Red,383.png,383-primal.png
+384,Rayquaza,Dragon,Flying,Undiscovered,,Green,384.png,384.png
+384,Mega Rayquaza,Dragon,Flying,Undiscovered,,Green,384.png,384-mega.png
+385,Jirachi,Steel,Psychic,Undiscovered,,Yellow,385.png,385.png
+386,Normal Deoxys,Psychic,,Undiscovered,,Red,386.png,386-normal.png
+386,Attack Deoxys,Psychic,,Undiscovered,,Red,386.png,386-attack.png
+386,Defense Deoxys,Psychic,,Undiscovered,,Red,386.png,386-defense.png
+386,Speed Deoxys,Psychic,,Undiscovered,,Red,386.png,386-speed.png
+387,Turtwig,Grass,,Monster,Grass,Green,387.png,387.png
+388,Grotle,Grass,,Monster,Grass,Green,388.png,388.png
+389,Torterra,Grass,Ground,Monster,Grass,Green,389.png,389.png
+390,Chimchar,Fire,,Field,Human-Like,Brown,390.png,390.png
+391,Monferno,Fire,Fighting,Field,Human-Like,Brown,391.png,391.png
+392,Infernape,Fire,Fighting,Field,Human-Like,Brown,392.png,392.png
+393,Piplup,Water,,Water 1,Field,Blue,393.png,393.png
+394,Prinplup,Water,,Water 1,Field,Blue,394.png,394.png
+395,Empoleon,Water,Steel,Water 1,Field,Blue,395.png,395.png
+396,Starly,Normal,Flying,Flying,,Brown,396.png,396.png
+397,Staravia,Normal,Flying,Flying,,Brown,397.png,397.png
+398,Staraptor,Normal,Flying,Flying,,Brown,398.png,398.png
+399,Bidoof,Normal,,Water 1,Field,Brown,399.png,399.png
+400,Bibarel,Normal,Water,Water 1,Field,Brown,400.png,400.png
+401,Kricketot,Bug,,Bug,,Red,401.png,401.png
+402,Kricketune,Bug,,Bug,,Red,402.png,402.png
+403,Shinx,Electric,,Field,,Blue,403.png,403.png
+404,Luxio,Electric,,Field,,Blue,404.png,404.png
+405,Luxray,Electric,,Field,,Blue,405.png,405.png
+406,Budew,Grass,Poison,Undiscovered,,Green,406.png,406.png
+407,Roserade,Grass,Poison,Fairy,Grass,Green,407.png,407.png
+408,Cranidos,Rock,,Monster,,Blue,408.png,408.png
+409,Rampardos,Rock,,Monster,,Blue,409.png,409.png
+410,Shieldon,Rock,Steel,Monster,,Gray,410.png,410.png
+411,Bastiodon,Rock,Steel,Monster,,Gray,411.png,411.png
+412,Plant Burmy,Bug,,Bug,,Green,412.png,412-plant.png
+413,Plant Wormadam,Bug,Grass,Bug,,Green,413.png,413-plant.png
+413,Sandy Wormadam,Bug,Ground,Bug,,Green,413.png,413-sandy.png
+413,Trash Wormadam,Bug,Steel,Bug,,Green,413.png,413-trash.png
+414,Mothim,Bug,Flying,Bug,,Yellow,414.png,414-plant.png
+415,Combee,Bug,Flying,Bug,,Yellow,415.png,415.png
+416,Vespiquen,Bug,Flying,Bug,,Yellow,416.png,416.png
+417,Pachirisu,Electric,,Field,Fairy,White,417.png,417.png
+418,Buizel,Water,,Water 1,Field,Brown,418.png,418.png
+419,Floatzel,Water,,Water 1,Field,Brown,419.png,419.png
+420,Cherubi,Grass,,Fairy,Grass,Pink,420.png,420.png
+421,Overcast Cherrim,Grass,,Fairy,Grass,Purple,421.png,421-overcast.png
+422,West Shellos,Water,,Water 1,Amorphous,Purple,422.png,422-west.png
+423,West Gastrodon,Water,Ground,Water 1,Amorphous,Purple,423.png,423-west.png
+424,Ambipom,Normal,,Field,,Purple,424.png,424.png
+425,Drifloon,Ghost,Flying,Amorphous,,Purple,425.png,425.png
+426,Drifblim,Ghost,Flying,Amorphous,,Purple,426.png,426.png
+427,Buneary,Normal,,Field,Human-Like,Brown,427.png,427.png
+428,Lopunny,Normal,,Field,Human-Like,Brown,428.png,428.png
+428,Mega Lopunny,Normal,Fighting,Field,Human-Like,Brown,428.png,428-mega.png
+429,Mismagius,Ghost,,Amorphous,,Purple,429.png,429.png
+430,Honchkrow,Dark,Flying,Flying,,Black,430.png,430.png
+431,Glameow,Normal,,Field,,Gray,431.png,431.png
+432,Purugly,Normal,,Field,,Gray,432.png,432.png
+433,Chingling,Psychic,,Undiscovered,,Yellow,433.png,433.png
+434,Stunky,Poison,Dark,Field,,Purple,434.png,434.png
+435,Skuntank,Poison,Dark,Field,,Purple,435.png,435.png
+436,Bronzor,Steel,Psychic,Mineral,,Green,436.png,436.png
+437,Bronzong,Steel,Psychic,Mineral,,Green,437.png,437.png
+438,Bonsly,Rock,,Undiscovered,,Brown,438.png,438.png
+439,Mime Jr.,Psychic,Fairy,Undiscovered,,Pink,439.png,439.png
+440,Happiny,Normal,,Undiscovered,,Pink,440.png,440.png
+441,Chatot,Normal,Flying,Flying,,Black,441.png,441.png
+442,Spiritomb,Ghost,Dark,Amorphous,,Purple,442.png,442.png
+443,Gible,Dragon,Ground,Monster,Dragon,Blue,443.png,443.png
+444,Gabite,Dragon,Ground,Monster,Dragon,Blue,444.png,444.png
+445,Garchomp,Dragon,Ground,Monster,Dragon,Blue,445.png,445.png
+445,Mega Garchomp,Dragon,Ground,Monster,Dragon,Blue,445.png,445-mega.png
+446,Munchlax,Normal,,Undiscovered,,Black,446.png,446.png
+447,Riolu,Fighting,,Undiscovered,,Blue,447.png,447.png
+448,Lucario,Fighting,Steel,Field,Human-Like,Blue,448.png,448.png
+448,Mega Lucario,Fighting,Steel,Field,Human-Like,Blue,448.png,448-mega.png
+449,Hippopotas,Ground,,Field,,Brown,449.png,449.png
+450,Hippowdon,Ground,,Field,,Brown,450.png,450.png
+451,Skorupi,Poison,Bug,Bug,Water 3,Purple,451.png,451.png
+452,Drapion,Poison,Dark,Bug,Water 3,Purple,452.png,452.png
+453,Croagunk,Poison,Fighting,Human-Like,,Blue,453.png,453.png
+454,Toxicroak,Poison,Fighting,Human-Like,,Blue,454.png,454.png
+455,Carnivine,Grass,,Grass,,Green,455.png,455.png
+456,Finneon,Water,,Water 2,,Blue,456.png,456.png
+457,Lumineon,Water,,Water 2,,Blue,457.png,457.png
+458,Mantyke,Water,Flying,Undiscovered,,Blue,458.png,458.png
+459,Snover,Grass,Ice,Monster,Grass,White,459.png,459.png
+460,Abomasnow,Grass,Ice,Monster,Grass,White,460.png,460.png
+460,Mega Abomasnow,Grass,Ice,Monster,Grass,White,460.png,460-mega.png
+461,Weavile,Dark,Ice,Field,,Black,461.png,461.png
+462,Magnezone,Electric,Steel,Mineral,,Gray,462.png,462.png
+463,Lickilicky,Normal,,Monster,,Pink,463.png,463.png
+464,Rhyperior,Ground,Rock,Monster,Field,Gray,464.png,464.png
+465,Tangrowth,Grass,,Grass,,Blue,465.png,465.png
+466,Electivire,Electric,,Human-Like,,Yellow,466.png,466.png
+467,Magmortar,Fire,,Human-Like,,Red,467.png,467.png
+468,Togekiss,Fairy,Flying,Flying,Fairy,White,468.png,468.png
+469,Yanmega,Bug,Flying,Bug,,Green,469.png,469.png
+470,Leafeon,Grass,,Field,,Green,470.png,470.png
+471,Glaceon,Ice,,Field,,Blue,471.png,471.png
+472,Gliscor,Ground,Flying,Bug,,Purple,472.png,472.png
+473,Mamoswine,Ice,Ground,Field,,Brown,473.png,473.png
+474,Porygon-Z,Normal,,Mineral,,Red,474.png,474.png
+475,Gallade,Psychic,Fighting,Amorphous,,White,475.png,475.png
+475,Mega Gallade,Psychic,Fighting,Amorphous,,White,475.png,475-mega.png
+476,Probopass,Rock,Steel,Mineral,,Gray,476.png,476.png
+477,Dusknoir,Ghost,,Amorphous,,Black,477.png,477.png
+478,Froslass,Ice,Ghost,Fairy,Mineral,White,478.png,478.png
+479,Rotom,Electric,Ghost,Amorphous,,Red,479.png,479.png
+479,Heat Rotom,Electric,Fire,Amorphous,,Red,479.png,479-heat.png
+479,Wash Rotom,Electric,Water,Amorphous,,Red,479.png,479-wash.png
+479,Frost Rotom,Electric,Ice,Amorphous,,Red,479.png,479-frost.png
+479,Fan Rotom,Electric,Flying,Amorphous,,Red,479.png,479-fan.png
+479,Mow Rotom,Electric,Grass,Amorphous,,Red,479.png,479-mow.png
+480,Uxie,Psychic,,Undiscovered,,Yellow,480.png,480.png
+481,Mesprit,Psychic,,Undiscovered,,Pink,481.png,481.png
+482,Azelf,Psychic,,Undiscovered,,Blue,482.png,482.png
+483,Dialga,Steel,Dragon,Undiscovered,,White,483.png,483.png
+484,Palkia,Water,Dragon,Undiscovered,,Purple,484.png,484.png
+485,Heatran,Fire,Steel,Undiscovered,,Brown,485.png,485.png
+486,Regigigas,Normal,,Undiscovered,,White,486.png,486.png
+487,Altered Giratina,Ghost,Dragon,Undiscovered,,Black,487.png,487-altered.png
+487,Origin Giratina,Ghost,Dragon,Undiscovered,,Black,487.png,487-origin.png
+488,Cresselia,Psychic,,Undiscovered,,Yellow,488.png,488.png
+489,Phione,Water,,Water 1,Fairy,Blue,489.png,489.png
+491,Darkrai,Dark,,Undiscovered,,Black,491.png,491.png
+490,Manaphy,Water,,Water 1,Fairy,Blue,490.png,490.png
+2-land.png
+492,Sky Shaymin,Grass,Flying,Undiscovered,,Green,492.png,492-sky.png
+490,Manaphy,Water,,Water 1,Fairy,Blue,490.png,490.png
+493,Normal Arceus,Normal,,Undiscovered,,White,493.png,493-normal.png
+494,Victini,Psychic,Fire,Undiscovered,,Yellow,494.png,494.png
+495,Snivy,Grass,,Field,Grass,Green,495.png,495.png
+496,Servine,Grass,,Field,Grass,Green,496.png,496.png
+497,Serperior,Grass,,Field,Grass,Green,497.png,497.png
+498,Tepig,Fire,,Field,,Red,498.png,498.png
+499,Pignite,Fire,Fighting,Field,,Red,499.png,499.png
+500,Emboar,Fire,Fighting,Field,,Red,500.png,500.png
+501,Oshawott,Water,,Field,,Blue,501.png,501.png
+502,Dewott,Water,,Field,,Blue,502.png,502.png
+503,Samurott,Water,,Field,,Blue,503.png,503.png
+504,Patrat,Normal,,Field,,Brown,504.png,504.png
+505,Watchog,Normal,,Field,,Brown,505.png,505.png
+506,Lillipup,Normal,,Field,,Brown,506.png,506.png
+507,Herdier,Normal,,Field,,Gray,507.png,507.png
+508,Stoutland,Normal,,Field,,Gray,508.png,508.png
+509,Purrloin,Dark,,Field,,Purple,509.png,509.png
+510,Liepard,Dark,,Field,,Purple,510.png,510.png
+511,Pansage,Grass,,Field,,Green,511.png,511.png
+512,Simisage,Grass,,Field,,Green,512.png,512.png
+513,Pansear,Fire,,Field,,Red,513.png,513.png
+514,Simisear,Fire,,Field,,Red,514.png,514.png
+515,Panpour,Water,,Field,,Blue,515.png,515.png
+516,Simipour,Water,,Field,,Blue,516.png,516.png
+517,Munna,Psychic,,Field,,Pink,517.png,517.png
+518,Musharna,Psychic,,Field,,Pink,518.png,518.png
+519,Pidove,Normal,Flying,Flying,,Gray,519.png,519.png
+520,Tranquill,Normal,Flying,Flying,,Gray,520.png,520.png
+521,Unfezant,Normal,Flying,Flying,,Gray,521.png,521.png
+522,Blitzle,Electric,,Field,,Black,522.png,522.png
+523,Zebstrika,Electric,,Field,,Black,523.png,523.png
+524,Roggenrola,Rock,,Mineral,,Blue,524.png,524.png
+525,Boldore,Rock,,Mineral,,Blue,525.png,525.png
+526,Gigalith,Rock,,Mineral,,Blue,526.png,526.png
+527,Woobat,Psychic,Flying,Flying,Field,Blue,527.png,527.png
+528,Swoobat,Psychic,Flying,Flying,Field,Blue,528.png,528.png
+529,Drilbur,Ground,,Field,,Gray,529.png,529.png
+530,Excadrill,Ground,Steel,Field,,Gray,530.png,530.png
+531,Audino,Normal,,Fairy,,Pink,531.png,531.png
+531,Mega Audino,Normal,Fairy,Fairy,,Pink,531.png,531-mega.png
+532,Timburr,Fighting,,Human-Like,,Gray,532.png,532.png
+533,Gurdurr,Fighting,,Human-Like,,Gray,533.png,533.png
+534,Conkeldurr,Fighting,,Human-Like,,Brown,534.png,534.png
+535,Tympole,Water,,Water 1,,Blue,535.png,535.png
+536,Palpitoad,Water,Ground,Water 1,,Blue,536.png,536.png
+537,Seismitoad,Water,Ground,Water 1,,Blue,537.png,537.png
+538,Throh,Fighting,,Human-Like,,Red,538.png,538.png
+539,Sawk,Fighting,,Human-Like,,Blue,539.png,539.png
+540,Sewaddle,Bug,Grass,Bug,,Yellow,540.png,540.png
+541,Swadloon,Bug,Grass,Bug,,Green,541.png,541.png
+542,Leavanny,Bug,Grass,Bug,,Yellow,542.png,542.png
+543,Venipede,Bug,Poison,Bug,,Red,543.png,543.png
+544,Whirlipede,Bug,Poison,Bug,,Gray,544.png,544.png
+545,Scolipede,Bug,Poison,Bug,,Red,545.png,545.png
+546,Cottonee,Grass,Fairy,Fairy,Grass,Green,546.png,546.png
+547,Whimsicott,Grass,Fairy,Fairy,Grass,Green,547.png,547.png
+548,Petilil,Grass,,Grass,,Green,548.png,548.png
+549,Lilligant,Grass,,Grass,,Green,549.png,549.png
+550,Red-Striped Basculin,Water,,Water 2,,Green,550.png,550-red-striped.png
+550,Blue-Striped Basculin,Water,,Water 2,,Green,550.png,550-blue-striped.png
+551,Sandile,Ground,Dark,Field,,Brown,551.png,551.png
+552,Krokorok,Ground,Dark,Field,,Brown,552.png,552.png
+553,Krookodile,Ground,Dark,Field,,Red,553.png,553.png
+554,Darumaka,Fire,,Field,,Red,554.png,554.png
+555,Standard Darmanitan,Fire,,Field,,Red,555.png,555-standard.png
+555,Zen Darmanitan,Fire,Psychic,Field,,Red,555.png,555-zen.png
+556,Maractus,Grass,,Grass,,Green,556.png,556.png
+557,Dwebble,Bug,Rock,Bug,Mineral,Red,557.png,557.png
+558,Crustle,Bug,Rock,Bug,Mineral,Red,558.png,558.png
+559,Scraggy,Dark,Fighting,Field,Dragon,Yellow,559.png,559.png
+560,Scrafty,Dark,Fighting,Field,Dragon,Red,560.png,560.png
+561,Sigilyph,Psychic,Flying,Flying,,Black,561.png,561.png
+562,Yamask,Ghost,,Mineral,Amorphous,Black,562.png,562.png
+563,Cofagrigus,Ghost,,Mineral,Amorphous,Yellow,563.png,563.png
+564,Tirtouga,Water,Rock,Water 1,Water 3,Blue,564.png,564.png
+565,Carracosta,Water,Rock,Water 1,Water 3,Blue,565.png,565.png
+566,Archen,Rock,Flying,Flying,Water 3,Yellow,566.png,566.png
+567,Archeops,Rock,Flying,Flying,Water 3,Yellow,567.png,567.png
+568,Trubbish,Poison,,Mineral,,Green,568.png,568.png
+569,Garbodor,Poison,,Mineral,,Green,569.png,569.png
+570,Zorua,Dark,,Field,,Gray,570.png,570.png
+571,Zoroark,Dark,,Field,,Gray,571.png,571.png
+572,Minccino,Normal,,Field,,Gray,572.png,572.png
+573,Cinccino,Normal,,Field,,Gray,573.png,573.png
+574,Gothita,Psychic,,Human-Like,,Purple,574.png,574.png
+575,Gothorita,Psychic,,Human-Like,,Purple,575.png,575.png
+576,Gothitelle,Psychic,,Human-Like,,Purple,576.png,576.png
+577,Solosis,Psychic,,Amorphous,,Green,577.png,577.png
+578,Duosion,Psychic,,Amorphous,,Green,578.png,578.png
+579,Reuniclus,Psychic,,Amorphous,,Green,579.png,579.png
+580,Ducklett,Water,Flying,Water 1,Flying,Blue,580.png,580.png
+581,Swanna,Water,Flying,Water 1,Flying,White,581.png,581.png
+582,Vanillite,Ice,,Mineral,,White,582.png,582.png
+583,Vanillish,Ice,,Mineral,,White,583.png,583.png
+584,Vanilluxe,Ice,,Mineral,,White,584.png,584.png
+585,Spring Deerling,Normal,Grass,Field,,Pink,585.png,585-spring.png
+586,Spring Sawsbuck,Normal,Grass,Field,,Brown,586.png,586-spring.png
+587,Emolga,Electric,Flying,Field,,White,587.png,587.png
+588,Karrablast,Bug,,Bug,,Blue,588.png,588.png
+589,Escavalier,Bug,Steel,Bug,,Gray,589.png,589.png
+590,Foongus,Grass,Poison,Grass,,White,590.png,590.png
+591,Amoonguss,Grass,Poison,Grass,,White,591.png,591.png
+592,Frillish,Water,Ghost,Amorphous,,White,592.png,592.png
+593,Jellicent,Water,Ghost,Amorphous,,White,593.png,593.png
+594,Alomomola,Water,,Water 1,Water 2,Pink,594.png,594.png
+595,Joltik,Bug,Electric,Bug,,Yellow,595.png,595.png
+596,Galvantula,Bug,Electric,Bug,,Yellow,596.png,596.png
+597,Ferroseed,Grass,Steel,Grass,Mineral,Gray,597.png,597.png
+598,Ferrothorn,Grass,Steel,Grass,Mineral,Gray,598.png,598.png
+599,Klink,Steel,,Mineral,,Gray,599.png,599.png
+600,Klang,Steel,,Mineral,,Gray,600.png,600.png
+601,Klinklang,Steel,,Mineral,,Gray,601.png,601.png
+602,Tynamo,Electric,,Amorphous,,White,602.png,602.png
+603,Eelektrik,Electric,,Amorphous,,Blue,603.png,603.png
+604,Eelektross,Electric,,Amorphous,,Blue,604.png,604.png
+605,Elgyem,Psychic,,Human-Like,,Blue,605.png,605.png
+606,Beheeyem,Psychic,,Human-Like,,Brown,606.png,606.png
+607,Litwick,Ghost,Fire,Amorphous,,White,607.png,607.png
+608,Lampent,Ghost,Fire,Amorphous,,Black,608.png,608.png
+609,Chandelure,Ghost,Fire,Amorphous,,Black,609.png,609.png
+610,Axew,Dragon,,Monster,Dragon,Green,610.png,610.png
+611,Fraxure,Dragon,,Monster,Dragon,Green,611.png,611.png
+612,Haxorus,Dragon,,Monster,Dragon,Yellow,612.png,612.png
+613,Cubchoo,Ice,,Field,,White,613.png,613.png
+614,Beartic,Ice,,Field,,White,614.png,614.png
+615,Cryogonal,Ice,,Mineral,,Blue,615.png,615.png
+616,Shelmet,Bug,,Bug,,Red,616.png,616.png
+617,Accelgor,Bug,,Bug,,Red,617.png,617.png
+618,Stunfisk,Ground,Electric,Water 1,Amorphous,Brown,618.png,618.png
+619,Mienfoo,Fighting,,Field,Human-Like,Yellow,619.png,619.png
+620,Mienshao,Fighting,,Field,Human-Like,Purple,620.png,620.png
+621,Druddigon,Dragon,,Monster,Dragon,Red,621.png,621.png
+622,Golett,Ground,Ghost,Mineral,,Green,622.png,622.png
+623,Golurk,Ground,Ghost,Mineral,,Green,623.png,623.png
+624,Pawniard,Dark,Steel,Human-Like,,Red,624.png,624.png
+625,Bisharp,Dark,Steel,Human-Like,,Red,625.png,625.png
+626,Bouffalant,Normal,,Field,,Brown,626.png,626.png
+627,Rufflet,Normal,Flying,Flying,,White,627.png,627.png
+628,Braviary,Normal,Flying,Flying,,Red,628.png,628.png
+629,Vullaby,Dark,Flying,Flying,,Brown,629.png,629.png
+630,Mandibuzz,Dark,Flying,Flying,,Brown,630.png,630.png
+631,Heatmor,Fire,,Field,,Red,631.png,631.png
+632,Durant,Bug,Steel,Bug,,Gray,632.png,632.png
+633,Deino,Dark,Dragon,Dragon,,Blue,633.png,633.png
+634,Zweilous,Dark,Dragon,Dragon,,Blue,634.png,634.png
+635,Hydreigon,Dark,Dragon,Dragon,,Blue,635.png,635.png
+636,Larvesta,Bug,Fire,Bug,,White,636.png,636.png
+637,Volcarona,Bug,Fire,Bug,,White,637.png,637.png
+638,Cobalion,Steel,Fighting,Undiscovered,,Blue,638.png,638.png
+639,Terrakion,Rock,Fighting,Undiscovered,,Gray,639.png,639.png
+640,Virizion,Grass,Fighting,Undiscovered,,Green,640.png,640.png
+641,Incarnate Tornadus,Flying,,Undiscovered,,Green,641.png,641-incarnate.png
+641,Therian Tornadus,Flying,,Undiscovered,,Green,641.png,641-therian.png
+642,Incarnate Thundurus,Electric,Flying,Undiscovered,,Blue,642.png,642-incarnate.png
+642,Therian Thundurus,Electric,Flying,Undiscovered,,Blue,642.png,642-therian.png
+643,Reshiram,Dragon,Fire,Undiscovered,,White,643.png,643.png
+644,Zekrom,Dragon,Electric,Undiscovered,,Black,644.png,644.png
+645,Incarnate Landorus,Ground,Flying,Undiscovered,,Brown,645.png,645-incarnate.png
+645,Therian Landorus,Ground,Flying,Undiscovered,,Brown,645.png,645-therian.png
+646,Kyurem,Dragon,Ice,Undiscovered,,Gray,646.png,646.png
+646,White Kyurem,Dragon,Ice,Undiscovered,,Gray,646.png,646-white.png
+646,Black Kyurem,Dragon,Ice,Undiscovered,,Gray,646.png,646-black.png
+647,Ordinary Keldeo,Water,Fighting,Undiscovered,,Yellow,647.png,647-ordinary.png
+647,Resolute Keldeo,Water,Fighting,Undiscovered,,Yellow,647.png,647-resolute.png
+648,Aria Meloetta,Normal,Psychic,Undiscovered,,White,648.png,648-aria.png
+648,Pirouette Meloetta,Normal,Fighting,Undiscovered,,White,648.png,648-pirouette.png
+649,Genesect,Bug,Steel,Undiscovered,,Purple,649.png,649.png
+650,Chespin,Grass,,Field,,Green,650.png,650.png
+651,Quilladin,Grass,,Field,,Green,651.png,651.png
+652,Chesnaught,Grass,Fighting,Field,,Green,652.png,652.png
+653,Fennekin,Fire,,Field,,Red,653.png,653.png
+654,Braixen,Fire,,Field,,Red,654.png,654.png
+655,Delphox,Fire,Psychic,Field,,Red,655.png,655.png
+656,Froakie,Water,,Water 1,,Blue,656.png,656.png
+657,Frogadier,Water,,Water 1,,Blue,657.png,657.png
+658,Greninja,Water,Dark,Water 1,,Blue,658.png,658.png
+658,Battle Bond Greninja,Water,Dark,Water 1,,Blue,658.png,658-battle-bond.png
+658,Ash's Greninja,Water,Dark,Water 1,,Blue,658.png,658-ash.png
+659,Bunnelby,Normal,,Field,,Brown,659.png,659.png
+660,Diggersby,Normal,Ground,Field,,Brown,660.png,660.png
+661,Fletchling,Normal,Flying,Flying,,Red,661.png,661.png
+662,Fletchinder,Fire,Flying,Flying,,Red,662.png,662.png
+663,Talonflame,Fire,Flying,Flying,,Red,663.png,663.png
+664,Scatterbug,Bug,,Bug,,Black,664.png,664-icy-snow.png
+665,Spewpa,Bug,,Bug,,Black,665.png,665-icy-snow.png
+666,Icy Snow Vivillon,Bug,Flying,Bug,,White,666.png,666-icy-snow.png
+667,Litleo,Fire,Normal,Field,,Brown,667.png,667.png
+668,Pyroar,Fire,Normal,Field,,Brown,668.png,668.png
+669,Red Flabébé,Fairy,,Fairy,,White,669.png,669-red.png
+670,Red Floette,Fairy,,Fairy,,White,670.png,670-red.png
+670,Eternal Floette,Fairy,,Fairy,,White,670.png,670-eternal.png
+671,Red Florges,Fairy,,Fairy,,White,671.png,671-red.png
+672,Skiddo,Grass,,Field,,Brown,672.png,672.png
+673,Gogoat,Grass,,Field,,Brown,673.png,673.png
+674,Pancham,Fighting,,Field,Human-Like,White,674.png,674.png
+675,Pangoro,Fighting,Dark,Field,Human-Like,White,675.png,675.png
+676,Natural Furfrou,Normal,,Field,,White,676.png,676-natural.png
+677,Espurr,Psychic,,Field,,Gray,677.png,677.png
+678,Male Meowstic,Psychic,,Field,,Blue,678.png,678-male.png
+678,Female Meowstic,Psychic,,Field,,Blue,678.png,678-female.png
+679,Honedge,Steel,Ghost,Mineral,,Brown,679.png,679.png
+680,Doublade,Steel,Ghost,Mineral,,Brown,680.png,680.png
+681,Shield Aegislash,Steel,Ghost,Mineral,,Brown,681.png,681-shield.png
+681,Blade Aegislash,Steel,Ghost,Mineral,,Brown,681.png,681-blade.png
+682,Spritzee,Fairy,,Fairy,,Pink,682.png,682.png
+683,Aromatisse,Fairy,,Fairy,,Pink,683.png,683.png
+684,Swirlix,Fairy,,Fairy,,White,684.png,684.png
+685,Slurpuff,Fairy,,Fairy,,White,685.png,685.png
+686,Inkay,Dark,Psychic,Water 1,Water 2,Blue,686.png,686.png
+687,Malamar,Dark,Psychic,Water 1,Water 2,Blue,687.png,687.png
+688,Binacle,Rock,Water,Water 3,,Brown,688.png,688.png
+689,Barbaracle,Rock,Water,Water 3,,Brown,689.png,689.png
+690,Skrelp,Poison,Water,Water 1,Dragon,Brown,690.png,690.png
+691,Dragalge,Poison,Dragon,Water 1,Dragon,Brown,691.png,691.png
+692,Clauncher,Water,,Water 1,Water 3,Blue,692.png,692.png
+693,Clawitzer,Water,,Water 1,Water 3,Blue,693.png,693.png
+694,Helioptile,Electric,Normal,Monster,Dragon,Yellow,694.png,694.png
+695,Heliolisk,Electric,Normal,Monster,Dragon,Yellow,695.png,695.png
+696,Tyrunt,Rock,Dragon,Monster,Dragon,Brown,696.png,696.png
+697,Tyrantrum,Rock,Dragon,Monster,Dragon,Red,697.png,697.png
+698,Amaura,Rock,Ice,Monster,,Blue,698.png,698.png
+699,Aurorus,Rock,Ice,Monster,,Blue,699.png,699.png
+700,Sylveon,Fairy,,Field,,Pink,700.png,700.png
+701,Hawlucha,Fighting,Flying,Human-Like,,Green,701.png,701.png
+702,Dedenne,Electric,Fairy,Field,Fairy,Yellow,702.png,702.png
+703,Carbink,Rock,Fairy,Fairy,Mineral,Gray,703.png,703.png
+704,Goomy,Dragon,,Dragon,,Purple,704.png,704.png
+705,Sliggoo,Dragon,,Dragon,,Purple,705.png,705.png
+706,Goodra,Dragon,,Dragon,,Purple,706.png,706.png
+707,Klefki,Steel,Fairy,Mineral,,Gray,707.png,707.png
+708,Phantump,Ghost,Grass,Grass,Amorphous,Brown,708.png,708.png
+709,Trevenant,Ghost,Grass,Grass,Amorphous,Brown,709.png,709.png
+710,Average Pumpkaboo,Ghost,Grass,Amorphous,,Brown,710.png,710-average.png
+710,Small Pumpkaboo,Ghost,Grass,Amorphous,,Brown,710.png,710-small.png
+710,Large Pumpkaboo,Ghost,Grass,Amorphous,,Brown,710.png,710-large.png
+710,Super Pumpkaboo,Ghost,Grass,Amorphous,,Brown,710.png,710-super.png
+711,Average Gourgeist,Ghost,Grass,Amorphous,,Brown,711.png,711-average.png
+711,Small Gourgeist,Ghost,Grass,Amorphous,,Brown,711.png,711-small.png
+711,Large Gourgeist,Ghost,Grass,Amorphous,,Brown,711.png,711-large.png
+711,Super Gourgeist,Ghost,Grass,Amorphous,,Brown,711.png,711-super.png
+712,Bergmite,Ice,,Monster,,Blue,712.png,712.png
+713,Avalugg,Ice,,Monster,,Blue,713.png,713.png
+714,Noibat,Flying,Dragon,Flying,,Purple,714.png,714.png
+715,Noivern,Flying,Dragon,Flying,,Purple,715.png,715.png
+716,Neutral Xerneas,Fairy,,Undiscovered,,Blue,716.png,716-neutral.png
+717,Yveltal,Dark,Flying,Undiscovered,,Red,717.png,717.png
+718,Zygarde,Dragon,Ground,Undiscovered,,Green,718.png,718.png
+718,10% Zygarde,Dragon,Ground,Undiscovered,,Green,718.png,718-10.png
+718,50% Zygarde,Dragon,Ground,Undiscovered,,Green,718.png,718-50.png
+718,Complete Zygarde,Dragon,Ground,Undiscovered,,Green,718.png,718-complete.png
+719,Diancie,Rock,Fairy,Undiscovered,,Pink,719.png,719.png
+719,Mega Diancie,Rock,Fairy,Undiscovered,,Pink,719.png,719-mega.png
+720,Confined Hoopa,Psychic,Ghost,Undiscovered,,Purple,720.png,720-confined.png
+720,Hoopa Unbound,Psychic,Dark,Undiscovered,,Purple,720.png,720-unbound.png
+721,Volcanion,Fire,Water,Undiscovered,,Brown,721.png,721.png
+722,Rowlet,Grass,Flying,Flying,,Brown,722.png,722.png
+723,Dartrix,Grass,Flying,Flying,,Brown,723.png,723.png
+724,Decidueye,Grass,Ghost,Flying,,Brown,724.png,724.png
+725,Litten,Fire,,Field,,Red,725.png,725.png
+726,Torracat,Fire,,Field,,Red,726.png,726.png
+727,Incineroar,Fire,Dark,Field,,Red,727.png,727.png
+728,Popplio,Water,,Water 1,Field,Blue,728.png,728.png
+729,Brionne,Water,,Water 1,Field,Blue,729.png,729.png
+730,Primarina,Water,Fairy,Water 1,Field,Blue,730.png,730.png
+731,Pikipek,Normal,Flying,Flying,,Black,731.png,731.png
+732,Trumbeak,Normal,Flying,Flying,,Black,732.png,732.png
+733,Toucannon,Normal,Flying,Flying,,Black,733.png,733.png
+734,Yungoos,Normal,,Field,,Brown,734.png,734.png
+735,Gumshoos,Normal,,Field,,Brown,735.png,735.png
+735,Totem Gumshoos,Normal,,Field,,Brown,735.png,735-totem.png
+736,Grubbin,Bug,,Bug,,Gray,736.png,736.png
+737,Charjabug,Bug,Electric,Bug,,Green,737.png,737.png
+738,Vikavolt,Bug,Electric,Bug,,Blue,738.png,738.png
+738,Totem Vikavolt,Bug,Electric,Bug,,Blue,738.png,738-totem.png
+739,Crabrawler,Fighting,,Water 3,,Purple,739.png,739.png
+740,Crabominable,Fighting,Ice,Water 3,,White,740.png,740.png
+741,Baile Oricorio,Fire,Flying,Flying,,Red,741.png,741-baile.png
+741,Pom-pom Oricorio,Electric,Flying,Flying,,Red,741.png,741-pom-pom.png
+741,Pa’u Oricorio,Psychic,Flying,Flying,,Red,741.png,741-pau.png
+741,Sensu Oricorio,Ghost,Flying,Flying,,Red,741.png,741-sensu.png
+742,Cutiefly,Bug,Fairy,Bug,Fairy,Yellow,742.png,742.png
+743,Ribombee,Bug,Fairy,Bug,Fairy,Yellow,743.png,743.png
+743,Totem Ribombee,Bug,Fairy,Bug,Fairy,Yellow,743.png,743-totem.png
+744,Rockruff,Rock,,Field,,Brown,744.png,744.png
+744,Own Tempo Rockruff,Rock,,Field,,Brown,744.png,744-own-tempo.png
+745,Midday Lycanroc,Rock,,Field,,Brown,745.png,745-midday.png
+745,Midnight Lycanroc,Rock,,Field,,Brown,745.png,745-midnight.png
+745,Dusk Lycanroc,Rock,,Field,,Brown,745.png,745-dusk.png
+746,Solo Wishiwashi,Water,,Water 2,,Blue,746.png,746-solo.png
+746,School Wishiwashi,Water,,Water 2,,Blue,746.png,746-school.png
+747,Mareanie,Poison,Water,Water 1,,Blue,747.png,747.png
+748,Toxapex,Poison,Water,Water 1,,Blue,748.png,748.png
+749,Mudbray,Ground,,Field,,Brown,749.png,749.png
+750,Mudsdale,Ground,,Field,,Brown,750.png,750.png
+751,Dewpider,Water,Bug,Water 1,Bug,Green,751.png,751.png
+752,Araquanid,Water,Bug,Water 1,Bug,Green,752.png,752.png
+752,Totem Araquanid,Water,Bug,Water 1,Bug,Green,752.png,752-totem.png
+753,Fomantis,Grass,,Grass,,Pink,753.png,753.png
+754,Lurantis,Grass,,Grass,,Pink,754.png,754.png
+754,Totem Lurantis,Grass,,Grass,,Pink,754.png,754-totem.png
+755,Morelull,Grass,Fairy,Grass,,Purple,755.png,755.png
+756,Shiinotic,Grass,Fairy,Grass,,Purple,756.png,756.png
+757,Salandit,Poison,Fire,Monster,Dragon,Black,757.png,757.png
+758,Salazzle,Poison,Fire,Monster,Dragon,Black,758.png,758.png
+758,Totem Salazzle,Poison,Fire,Monster,Dragon,Black,758.png,758-totem.png
+759,Stufful,Normal,Fighting,Field,,Pink,759.png,759.png
+760,Bewear,Normal,Fighting,Field,,Pink,760.png,760.png
+761,Bounsweet,Grass,,Grass,,Purple,761.png,761.png
+762,Steenee,Grass,,Grass,,Purple,762.png,762.png
+763,Tsareena,Grass,,Grass,,Purple,763.png,763.png
+764,Comfey,Fairy,,Grass,,Green,764.png,764.png
+765,Oranguru,Normal,Psychic,Field,,White,765.png,765.png
+766,Passimian,Fighting,,Field,,White,766.png,766.png
+767,Wimpod,Bug,Water,Bug,Water 3,Gray,767.png,767.png
+768,Golisopod,Bug,Water,Bug,Water 3,Gray,768.png,768.png
+769,Sandygast,Ghost,Ground,Amorphous,,Brown,769.png,769.png
+770,Palossand,Ghost,Ground,Amorphous,,Brown,770.png,770.png
+771,Pyukumuku,Water,,Water 1,,Black,771.png,771.png
+772,Type: Null,Normal,,Undiscovered,,Gray,772.png,772.png
+773,Silvally,Normal,,Undiscovered,,Gray,773.png,773-normal.png
+774,Red Meteor Minior,Rock,Flying,Mineral,,Brown,774.png,774-red-meteor.png
+774,Orange Meteor Minior,Rock,Flying,Mineral,,Brown,774.png,774-orange-meteor.png
+774,Yellow Meteor Minior,Rock,Flying,Mineral,,Brown,774.png,774-yellow-meteor.png
+774,Green Meteor Minior,Rock,Flying,Mineral,,Brown,774.png,774-green-meteor.png
+774,Blue Meteor Minior,Rock,Flying,Mineral,,Brown,774.png,774-blue-meteor.png
+774,Indigo Meteor Minior,Rock,Flying,Mineral,,Brown,774.png,774-indigo-meteor.png
+774,Violent Meteor Minior,Rock,Flying,Mineral,,Brown,774.png,774-violet-meteor.png
+774,Red Core Minior,Rock,Flying,Mineral,,Brown,774.png,774-red.png
+774,Orange Core Minior,Rock,Flying,Mineral,,Brown,774.png,774-orange.png
+774,Yellow Core Minior,Rock,Flying,Mineral,,Brown,774.png,774-yellow.png
+774,Green Core Minior,Rock,Flying,Mineral,,Brown,774.png,774-green.png
+774,Blue Core Minior,Rock,Flying,Mineral,,Brown,774.png,774-blue.png
+774,Indigo Core Minior,Rock,Flying,Mineral,,Brown,774.png,774-indigo.png
+774,Violet Core Minior,Rock,Flying,Mineral,,Brown,774.png,774-violet.png
+775,Komala,Normal,,Field,,Blue,775.png,775.png
+776,Turtonator,Fire,Dragon,Monster,Dragon,Red,776.png,776.png
+777,Togedemaru,Electric,Steel,Field,Fairy,Gray,777.png,777.png
+777,Totem Togedemaru,Electric,Steel,Field,Fairy,Gray,777.png,777-totem.png
+778,Disguised Mimikyu,Ghost,Fairy,Amorphous,,Yellow,778.png,778-disguised.png
+778,Busted Mimikyu,Ghost,Fairy,Amorphous,,Yellow,778.png,778-busted.png
+778,Totem Disguised Mimikyu,Ghost,Fairy,Amorphous,,Yellow,778.png,778-totem-disguised.png
+778,Totem Busted Mimikyu,Ghost,Fairy,Amorphous,,Yellow,778.png,778-totem-busted.png
+779,Bruxish,Water,Psychic,Water 2,,Pink,779.png,779.png
+780,Drampa,Normal,Dragon,Monster,Dragon,White,780.png,780.png
+781,Dhelmise,Ghost,Grass,Mineral,,Green,781.png,781.png
+782,Jangmo-o,Dragon,,Dragon,,Gray,782.png,782.png
+783,Hakamo-o,Dragon,Fighting,Dragon,,Gray,783.png,783.png
+784,Kommo-o,Dragon,Fighting,Dragon,,Gray,784.png,784.png
+784,Totem Kommo’o,Dragon,Fighting,Dragon,,Gray,784.png,784-totem.png
+785,Tapu Koko,Electric,Fairy,Undiscovered,,Yellow,785.png,785.png
+786,Tapu Lele,Psychic,Fairy,Undiscovered,,Pink,786.png,786.png
+787,Tapu Bulu,Grass,Fairy,Undiscovered,,Red,787.png,787.png
+788,Tapu Fini,Water,Fairy,Undiscovered,,Purple,788.png,788.png
+789,Cosmog,Psychic,,Undiscovered,,Blue,789.png,789.png
+790,Cosmoem,Psychic,,Undiscovered,,Blue,790.png,790.png
+791,Solgaleo,Psychic,Steel,Undiscovered,,White,791.png,791.png
+792,Lunala,Psychic,Ghost,Undiscovered,,Purple,792.png,792.png
+793,Nihilego,Rock,Poison,Undiscovered,,White,793.png,793.png
+794,Buzzwole,Bug,Fighting,Undiscovered,,Red,794.png,794.png
+795,Pheromosa,Bug,Fighting,Undiscovered,,White,795.png,795.png
+796,Xurkitree,Electric,,Undiscovered,,Black,796.png,796.png
+797,Celesteela,Steel,Flying,Undiscovered,,Green,797.png,797.png
+798,Kartana,Grass,Steel,Undiscovered,,White,798.png,798.png
+799,Guzzlord,Dark,Dragon,Undiscovered,,Black,799.png,799.png
+800,Necrozma,Psychic,,Undiscovered,,Black,800.png,800.png
+800,Dusk Necrozma,Psychic,Steel,Undiscovered,,Black,800.png,800-dusk.png
+800,Dawn Necrozma,Psychic,Ghost,Undiscovered,,Black,800.png,800-dawn.png
+800,Ultra Necrozma,Psychic,Dragon,Undiscovered,,Black,800.png,800-ultra.png
+801,Magearna,Steel,Fairy,Undiscovered,,Gray,801.png,801.png
+801,Original Magearna,Steel,Fairy,Undiscovered,,Gray,801.png,801-original.png
+802,Marshadow,Fighting,Ghost,Undiscovered,,Gray,802.png,802.png
+803,Poipole,Poison,,Undiscovered,,Purple,803.png,803.png
+804,Naganadel,Poison,Dragon,Undiscovered,,Purple,804.png,804.png
+805,Stakataka,Rock,Steel,Undiscovered,,Gray,805.png,805.png
+806,Blacephalon,Fire,Ghost,Undiscovered,,White,806.png,806.png
+807,Zeraora,Electric,,Undiscovered,,Yellow,807.png,807.png
