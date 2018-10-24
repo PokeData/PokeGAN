@@ -1,5 +1,5 @@
 require 'byebug'
-require 'CSV'
+require 'csv'
 require 'down'
 require 'nokogiri'
 require 'open-uri'

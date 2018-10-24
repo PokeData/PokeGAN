@@ -107,3 +107,12 @@ pokemon_full_images/
 pokemon_mini_images/
 
 .byebug_history
+anim/
+snapshots/
+training_data/
+
+data.hdf5
+fakes.png
+frame.png
+reals.png
+loss.csv
