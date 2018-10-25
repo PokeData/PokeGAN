@@ -108,8 +108,8 @@ if type_1.empty?
   type_1_list = all_mini if type == 'mini'
 else
   type_1_list = []
-  type_1.each do |type_1|
-    type_1_list.concat(data_hash['type_1'][type_1.capitalize].map{|h| h[type]})
+  type_1.each do |type_1_item|
+    type_1_list.concat(data_hash['type_1'][type_1_item.capitalize].map{|h| h[type]})
   end
 end
 
@@ -118,8 +118,8 @@ if type_2.empty?
   type_2_list = all_mini if type == 'mini'
 else
   type_2_list = []
-  type_2.each do |type_1|
-    type_2_list.concat(data_hash['type_2'][type_2.capitalize].map{|h| h[type]})
+  type_2.each do |type_2_item|
+    type_2_list.concat(data_hash['type_2'][type_2_item.capitalize].map{|h| h[type]})
   end
 end
 
@@ -128,8 +128,8 @@ if egg_group_1.empty?
   egg_group_1_list = all_mini if type == 'mini'
 else
   egg_group_1_list = []
-  egg_group_1.each do |type_1|
-    egg_group_1_list.concat(data_hash['egg_group_1'][egg_group_1.capitalize].map{|h| h[type]})
+  egg_group_1.each do |egg_group_1_item|
+    egg_group_1_list.concat(data_hash['egg_group_1'][egg_group_1_item.capitalize].map{|h| h[type]})
   end
 end
 
@@ -138,8 +138,8 @@ if egg_group_2.empty?
   egg_group_2_list = all_mini if type == 'mini'
 else
   egg_group_2_list = []
-  egg_group_2.each do |type_1|
-    egg_group_2_list.concat(data_hash['egg_group_2'][egg_group_2.capitalize].map{|h| h[type]})
+  egg_group_2.each do |egg_group_2_item|
+    egg_group_2_list.concat(data_hash['egg_group_2'][egg_group_2_item.capitalize].map{|h| h[type]})
   end
 end
 
