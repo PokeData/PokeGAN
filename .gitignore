@@ -110,9 +110,11 @@ pokemon_mini_images/
 anim/
 snapshots/
 training_data/
+training_data_contour/
 
 data.hdf5
 fakes.png
 frame.png
 reals.png
 loss.csv
+
